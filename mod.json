@@ -1,0 +1,12 @@
+{
+	"Name": "Field-Royale",
+	"Authors": ["Churchill", "Leo"],
+	"Description": "Battle Field 3 Battle Royale",
+	"URL": "",
+	"Version": "0",
+	"HasWebUI": true,
+	"HasVeniceEXT": true,
+	"Dependencies": {
+        "veniceext": "^1.0.0"
+    }
+}

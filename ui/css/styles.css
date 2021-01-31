@@ -1,0 +1,17 @@
+::-webkit-scrollbar { 
+	display: none; 
+}
+
+#esp_markers {
+	width: 100%; 
+	height: 100%;    
+	overflow: hidden;
+	position:relative;
+}
+
+.marker{
+	display: none;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+}
